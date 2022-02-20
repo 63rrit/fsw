@@ -4,10 +4,10 @@
     <title>Your Title</title>
     <description>Your description
 </description>
-    <link>Your-Link.github.io/</link>
-    <atom:link href="Your-Link.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Feb 2022 19:06:42 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Feb 2022 19:06:42 +0100</lastBuildDate>
+    <link>https://63rrit.github.io//</link>
+    <atom:link href="https://63rrit.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Feb 2022 11:20:50 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Feb 2022 11:20:50 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
   </channel>
