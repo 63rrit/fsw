@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://63rrit.github.io/fsw/about</loc>
-</url>
-<url>
 <loc>https://63rrit.github.io/fsw/2016/about</loc>
-</url>
-<url>
-<loc>https://63rrit.github.io/fsw/agenda</loc>
 </url>
 <url>
 <loc>https://63rrit.github.io/fsw/2016/agenda</loc>
 </url>
 <url>
-<loc>https://63rrit.github.io/fsw/booklet</loc>
-</url>
-<url>
 <loc>https://63rrit.github.io/fsw/2016/faqs</loc>
-</url>
-<url>
-<loc>https://63rrit.github.io/fsw/faqs</loc>
 </url>
 <url>
 <loc>https://63rrit.github.io/fsw/2016/index</loc>
@@ -28,19 +16,10 @@
 <loc>https://63rrit.github.io/fsw/</loc>
 </url>
 <url>
-<loc>https://63rrit.github.io/fsw/register</loc>
-</url>
-<url>
 <loc>https://63rrit.github.io/fsw/2016/team</loc>
 </url>
 <url>
-<loc>https://63rrit.github.io/fsw/team</loc>
-</url>
-<url>
 <loc>https://63rrit.github.io/fsw/2016/venue</loc>
-</url>
-<url>
-<loc>https://63rrit.github.io/fsw/venue</loc>
 </url>
 <url>
 <loc>https://63rrit.github.io/fsw/test/test.html</loc>
